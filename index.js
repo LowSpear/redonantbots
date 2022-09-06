@@ -3,7 +3,7 @@ const PogyClient = require("./Pogy");
 const config = require("./config.json");
 const logger = require("./src/utils/logger");
 const Pogy = new PogyClient(config);
-
+const port = Process.env.PORT || 3000 ;
 
 const color = require("./src/data/colors");
 Pogy.color = color;
