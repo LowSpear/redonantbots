@@ -1,10 +1,10 @@
 {
   "developers": [],
-  "status": "p!help | pogy.xyz",
+  "status": "re!help | redonant-forum.tk",
   "discord": "",
   "dashboard": "true",
   "server": "",
-  "prefix": "p!",
+  "prefix": "re!",
   "webhooks": {
     "logs": "",
     "maintenance_logs": "",
