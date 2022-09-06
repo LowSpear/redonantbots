@@ -3,6 +3,12 @@ const PogyClient = require("./Pogy");
 const config = require("./config.json");
 const logger = require("./src/utils/logger");
 const Pogy = new PogyClient(config);
+var http = require('http');
+
+http.createServer(function (req, res){
+  res.write("Botunuz Guvenli Bir Sekilde 7/24 Olmustur");
+  res.end();
+}).listen(8080);
 
 const color = require("./src/data/colors");
 Pogy.color = color;
