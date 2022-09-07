@@ -18,10 +18,10 @@
     "votes": "https://discord.com/api/webhooks/1017019794391838801/wWBz-mtwQIdqPzDQdt2M5dKE_ZQGHksZ_eQVLcBftEYGwhmAUi76hDHLffQldDtFGvt3",
     "errors": "https://discord.com/api/webhooks/1017019794391838801/wWBz-mtwQIdqPzDQdt2M5dKE_ZQGHksZ_eQVLcBftEYGwhmAUi76hDHLffQldDtFGvt3",
     "auth": "https://discord.com/api/oauth2/authorize?client_id=747368057969573951&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot",
-    "joinsPublic": "933406176803172454",
-    "joinsPrivate": "",
-    "leavesPublic": "933406176803172454",
-    "leavesPrivate": ""
+    "joinsPublic": "https://discord.com/api/webhooks/1017020159430500472/fpQYyjEqcY60tVzwAxCqGMqkDLvw3nhxghH9fBi23hLyBwsidMffbxKAuj3Hr784sxeo",
+    "joinsPrivate": "https://discord.com/api/webhooks/1017020159430500472/fpQYyjEqcY60tVzwAxCqGMqkDLvw3nhxghH9fBi23hLyBwsidMffbxKAuj3Hr784sxeo",
+    "leavesPublic": "https://discord.com/api/webhooks/1017020159430500472/fpQYyjEqcY60tVzwAxCqGMqkDLvw3nhxghH9fBi23hLyBwsidMffbxKAuj3Hr784sxeo",
+    "leavesPrivate": "https://discord.com/api/webhooks/1017020159430500472/fpQYyjEqcY60tVzwAxCqGMqkDLvw3nhxghH9fBi23hLyBwsidMffbxKAuj3Hr784sxeo"
   },
   "maintenance": "true",
   "maintenance_threshold": "3",
